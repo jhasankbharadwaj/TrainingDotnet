@@ -2,6 +2,8 @@
 {
     public class Category
     {
+        internal object _dbContext;
+
         public int Id { get; set; }
 
         public string Name { get; set; }

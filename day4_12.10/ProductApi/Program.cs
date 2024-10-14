@@ -11,9 +11,11 @@ namespace ProductApi
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddDbContext<ProductContext>(options =>
-    options.UseSqlServer(builder.Configuration.GetConnectionString("ProductDB")));
+            options.UseSqlServer(builder.Configuration.GetConnectionString("ProductDB")));
 
             builder.Services.AddTransient<IProductRepository, ProductRepository>();
+            builder.Services.AddTransient<ICategoryRepository, CategoryRepository>();
+
             // Add services to the container. additional
             builder.Services.AddAuthorization();
 
