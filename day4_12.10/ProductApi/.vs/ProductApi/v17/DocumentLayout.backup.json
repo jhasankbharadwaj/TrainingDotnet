@@ -3,32 +3,8 @@
   "WorkspaceRootPath": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\model\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,6 +13,38 @@
     {
       "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:data\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|e:\\advanced_training\\day4_12.10\\productapi\\productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F757A603-41C4-4360-ACB5-E607F6E6B996}|ProductApi.csproj|solutionrelative:productapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,27 +59,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBsAAAAAAAAAAAAAAA==",
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CategoryRepository.cs",
+              "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAoAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T03:33:59.855Z",
+              "WhenOpened": "2024-10-13T09:30:42.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
               "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Repository\\ProductRepository.cs",
               "RelativeToolTip": "Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAswCIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T03:29:45.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICategoryRepository.cs",
+              "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T09:23:08.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Category.cs",
+              "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Model\\Category.cs",
+              "RelativeDocumentMoniker": "Model\\Category.cs",
+              "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Model\\Category.cs",
+              "RelativeToolTip": "Model\\Category.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T03:03:52.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "Model\\Product.cs",
+              "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Model\\Product.cs",
+              "RelativeToolTip": "Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T03:02:52.252Z",
               "EditorCaption": ""
             },
             {
@@ -82,75 +129,65 @@
               "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
               "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Repository\\IProductRepository.cs",
               "RelativeToolTip": "Repository\\IProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAgwAYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T03:28:58.871Z"
+              "WhenOpened": "2024-10-13T03:28:58.871Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ProductContext.cs",
               "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Data\\ProductContext.cs",
               "RelativeDocumentMoniker": "Data\\ProductContext.cs",
               "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Data\\ProductContext.cs",
               "RelativeToolTip": "Data\\ProductContext.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAgwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-13T03:17:13.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-13T03:26:54.144Z",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T03:33:59.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ProductController.cs",
               "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T03:37:20.851Z"
+              "WhenOpened": "2024-10-13T03:37:20.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Model\\Category.cs",
-              "RelativeDocumentMoniker": "Model\\Category.cs",
-              "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Model\\Category.cs",
-              "RelativeToolTip": "Model\\Category.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAzwAgAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T03:03:52.004Z"
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-13T03:26:54.144Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Model\\Product.cs",
-              "RelativeDocumentMoniker": "Model\\Product.cs",
-              "ToolTip": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\Model\\Product.cs",
-              "RelativeToolTip": "Model\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T03:02:52.252Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "ProductApi.csproj",
               "DocumentMoniker": "E:\\Advanced_Training\\day4_12.10\\ProductApi\\ProductApi.csproj",
               "RelativeDocumentMoniker": "ProductApi.csproj",

@@ -44,14 +44,22 @@ namespace ProductApi.Controllers
         [HttpPut]
         public IActionResult Put([FromBody] Product product)
         {
-            if (product != null)
+            if (product == null)
             {
-                using (var scope = new TransactionScope())
-                {
-                    _productRepository.UpdateProduct(product);
-                    scope.Complete();
-                    return new OkResult();
-                }
+                return NotFound();
+            }
+            var Exisiting = _productRepository.GetProductByID(product.Id);
+            if (Exisiting == null)
+            {
+                return new NoContentResult();
+            }
+            Exisiting.Name = product.Name;
+            Exisiting.Price = product.Price;
+            using (var scope = new TransactionScope())
+            {
+               
+                _productRepository.UpdateProduct(Exisiting);
+                scope.Complete();
             }
             return new NoContentResult();
         }
