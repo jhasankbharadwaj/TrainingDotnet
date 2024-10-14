@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using modelBinding.model;
+using System.Security.Principal;
 
 namespace modelBinding.Controllers
 {
@@ -14,8 +15,6 @@ namespace modelBinding.Controllers
              new AccountDetails{AccountNumber=3345,Name="asdfg22",Age=43,City="hsj",Region="fad" },
             new AccountDetails{AccountNumber=3455665,Name="asdfg33",Age=33,City="fa",Region="gret" },
             new AccountDetails{AccountNumber=2334,Name="asdfg44",Age=88,City="dafa",Region="qwre" },
-
-
 
         };
         public AccountController() {
@@ -61,10 +60,14 @@ namespace modelBinding.Controllers
         [HttpPut("{id:int}")]
         public async Task<IActionResult> UpdateAccountDetails([FromRoute]int Id, [FromBody] AccountDetails account)
         {
-           var  ac=_Accounts.FirstOrDefault(i=>i.Equals(Id));
-            if (ac != null)
+           var  ac=_Accounts.FirstOrDefault(i=>i.AccountNumber==account.AccountNumber);
+            if (ac!=null)
             {
-                ac = account;
+                ac.Age = account.Age;
+                ac.City = account.City;
+                ac.Region = account.Region;
+                ac.Name = account.Name;
+
                 return Ok(ac);
             }
 
@@ -73,12 +76,13 @@ namespace modelBinding.Controllers
         [HttpDelete("{id:int}")]
         public IActionResult DeleteProduct([FromRoute] int Acc)
         {
-            var product = _Accounts.FirstOrDefault(p => p.AccountNumber == Acc);
-            if (product == null)
+            var ac = _Accounts.FirstOrDefault(i => i.AccountNumber == Acc);
+
+            if (ac == null)
             {
                 return NotFound(new { Message = " Account not  found." });
             }
-            _Accounts.Remove(product);
+            _Accounts.Remove(ac);
             return NoContent();
         }
 

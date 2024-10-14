@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{3F8D5367-2C51-423C-AF00-2AC8F7BE8E5B}|modelBinding\\modelBinding.csproj|solutionrelative:modelbinding\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3F8D5367-2C51-423C-AF00-2AC8F7BE8E5B}|modelBinding\\modelBinding.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\modelbinding\\modelbinding\\model\\accountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F8D5367-2C51-423C-AF00-2AC8F7BE8E5B}|modelBinding\\modelBinding.csproj|solutionrelative:modelbinding\\model\\accountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3F8D5367-2C51-423C-AF00-2AC8F7BE8E5B}|modelBinding\\modelBinding.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\modelbinding\\modelbinding\\modelbinding.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
       "RelativeMoniker": "D:0:0:{3F8D5367-2C51-423C-AF00-2AC8F7BE8E5B}|modelBinding\\modelBinding.csproj|solutionrelative:modelbinding\\modelbinding.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3F8D5367-2C51-423C-AF00-2AC8F7BE8E5B}|modelBinding\\modelBinding.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\modelbinding\\modelbinding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F8D5367-2C51-423C-AF00-2AC8F7BE8E5B}|modelBinding\\modelBinding.csproj|solutionrelative:modelbinding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3F8D5367-2C51-423C-AF00-2AC8F7BE8E5B}|modelBinding\\modelBinding.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\modelbinding\\modelbinding\\model\\accountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3F8D5367-2C51-423C-AF00-2AC8F7BE8E5B}|modelBinding\\modelBinding.csproj|solutionrelative:modelbinding\\model\\accountdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "modelBinding",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\modelBinding\\modelBinding\\modelBinding.csproj",
               "RelativeDocumentMoniker": "modelBinding\\modelBinding.csproj",
@@ -42,7 +42,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\modelBinding\\modelBinding\\Program.cs",
               "RelativeDocumentMoniker": "modelBinding\\Program.cs",
@@ -61,27 +61,23 @@
               "RelativeDocumentMoniker": "modelBinding\\Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\modelBinding\\modelBinding\\Controllers\\AccountController.cs",
               "RelativeToolTip": "modelBinding\\Controllers\\AccountController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwFAAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T09:54:06.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "AccountDetails.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\modelBinding\\modelBinding\\model\\AccountDetails.cs",
               "RelativeDocumentMoniker": "modelBinding\\model\\AccountDetails.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\modelBinding\\modelBinding\\model\\AccountDetails.cs",
               "RelativeToolTip": "modelBinding\\model\\AccountDetails.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAQwBQAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T09:27:49.16Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }

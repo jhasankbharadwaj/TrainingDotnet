@@ -7,8 +7,7 @@ namespace modelBinding.model
     public class AccountDetails
     {
         [Required]
-        [MaxLength(15)]
-        [RegularExpression("0-9")]
+        [RegularExpression(@"^\d+$", ErrorMessage = "The field AccountNumber must be numeric.")]
         [Key]
         public int AccountNumber { get; set; }
         [Required]
@@ -21,6 +20,8 @@ namespace modelBinding.model
         public int Age { get; set; }
         [Required]
         [BindRequired]
+        [MaxLength(15)]
+
         public string City { get; set; }
         
 
