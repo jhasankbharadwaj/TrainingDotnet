@@ -4,15 +4,16 @@ namespace WebappProject.Services
 {
     public interface ICustomerService
     {
-        List<CustEntity> GetAllCustomer();
+        Task<List<CustEntity>> GetAllCustomer();
 
-        CustEntity? GetCustomersByID(int id);
+        Task<CustEntity?> GetCustomersByID(int id);
 
-        CustEntity AddCustomer(AddOrUpdateCustomer obj);
+        Task<CustEntity> AddCustomer(AddOrUpdateCustomer customer);
 
-        CustEntity? UpdateCustomer(int id, AddOrUpdateCustomer obj);
+        Task<CustEntity?> UpdateCustomer(int id, AddOrUpdateCustomer customer);
 
-        bool DeleteCustomerByID(int id);
+        Task<bool> DeleteCustomerByID(int id);
+
 
 
     }

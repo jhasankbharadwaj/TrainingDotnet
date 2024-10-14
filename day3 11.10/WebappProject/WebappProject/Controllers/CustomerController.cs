@@ -37,7 +37,7 @@ namespace WebappProject.Controllers
         [HttpPost]
         public IActionResult Post(AddOrUpdateCustomer CustomerObject)
         {
-            var hero = _CustomerService.AddCustomer(CustomerObject);
+            var hero = _CustomerService.AddCustomer(CustomerObject, _CustomerService.Get_Contextdb());
 
             if (hero == null)
             {

@@ -29,4 +29,5 @@ C:\Users\Administrator\Desktop\jbclass\day2_1010\WebApplication1\WebApplication1
 C:\Users\Administrator\Desktop\jbclass\day2_1010\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.pdb
 C:\Users\Administrator\Desktop\jbclass\day2_1010\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\jbclass\day2_1010\WebApplication1\WebApplication1\obj\Debug\net6.0\ref\WebApplication1.dll
-C:\Users\Administrator\Desktop\jbclass\day2_1010\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.csproj.CopyComplete
+C:\Users\Administrator\Desktop\jbclass\day2_1010\WebApplication1\WebApplication1\obj\Debug\net6.0\WebApplication1.sourcelink.json
+C:\Users\Administrator\Desktop\jbclass\day2_1010\WebApplication1\WebApplication1\obj\Debug\net6.0\WebAppli.7D14BD69.Up2Date

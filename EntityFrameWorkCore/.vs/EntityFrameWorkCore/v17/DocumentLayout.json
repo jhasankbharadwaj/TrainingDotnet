@@ -1,22 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\c#Ust\\EntityFrameWorkCore\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\jbclass\\EntityFrameWorkCore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|e:\\c#ust\\entityframeworkcore\\empeventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|c:\\users\\administrator\\desktop\\jbclass\\entityframeworkcore\\empeventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|solutionrelative:empeventcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|e:\\c#ust\\entityframeworkcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|c:\\users\\administrator\\desktop\\jbclass\\entityframeworkcore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|e:\\c#ust\\entityframeworkcore\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|c:\\users\\administrator\\desktop\\jbclass\\entityframeworkcore\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|e:\\c#ust\\entityframeworkcore\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|solutionrelative:event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|c:\\users\\administrator\\desktop\\jbclass\\entityframeworkcore\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83C17496-E680-47E0-A503-0A804DC5FD51}|EntityFrameWorkCore.csproj|solutionrelative:employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,37 +32,37 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EmpEventContext.cs",
-              "DocumentMoniker": "E:\\c#Ust\\EntityFrameWorkCore\\EmpEventContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\EntityFrameWorkCore\\EmpEventContext.cs",
               "RelativeDocumentMoniker": "EmpEventContext.cs",
-              "ToolTip": "E:\\c#Ust\\EntityFrameWorkCore\\EmpEventContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\EntityFrameWorkCore\\EmpEventContext.cs",
               "RelativeToolTip": "EmpEventContext.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAiwBEAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T07:41:24.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Event.cs",
-              "DocumentMoniker": "E:\\c#Ust\\EntityFrameWorkCore\\Event.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\EntityFrameWorkCore\\Event.cs",
               "RelativeDocumentMoniker": "Event.cs",
-              "ToolTip": "E:\\c#Ust\\EntityFrameWorkCore\\Event.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\EntityFrameWorkCore\\Event.cs",
               "RelativeToolTip": "Event.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAiwA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAUwAwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T07:37:32.304Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
-              "DocumentMoniker": "E:\\c#Ust\\EntityFrameWorkCore\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\EntityFrameWorkCore\\Employee.cs",
               "RelativeDocumentMoniker": "Employee.cs",
-              "ToolTip": "E:\\c#Ust\\EntityFrameWorkCore\\Employee.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\EntityFrameWorkCore\\Employee.cs",
               "RelativeToolTip": "Employee.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwA8AAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T07:32:16.424Z",
               "EditorCaption": ""
@@ -71,14 +71,18 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "E:\\c#Ust\\EntityFrameWorkCore\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\EntityFrameWorkCore\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "E:\\c#Ust\\EntityFrameWorkCore\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\EntityFrameWorkCore\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T05:40:38.754Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
