@@ -3,31 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\mvcentitycore\\mvcentitycore\\data\\mvcentitycorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|solutionrelative:mvcentitycore\\data\\mvcentitycorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\mvcentitycore\\mvcentitycore\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|solutionrelative:mvcentitycore\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\mvcentitycore\\mvcentitycore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|solutionrelative:mvcentitycore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\mvcentitycore\\mvcentitycore\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|solutionrelative:mvcentitycore\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\mvcentitycore\\mvcentitycore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|solutionrelative:mvcentitycore\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\mvcentitycore\\mvcentitycore\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|solutionrelative:mvcentitycore\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MvcEntitycoreContext_c30ee6ff_c4b1_4645_8a58_37bba8c9b008/True/SqlTable/dbo.Employee.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,90 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "dbo.Employee.sql",
-              "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MvcEntitycoreContext_c30ee6ff_c4b1_4645_8a58_37bba8c9b008/True/SqlTable/dbo.Employee.sql",
-              "ToolTip": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/MvcEntitycoreContext_c30ee6ff_c4b1_4645_8a58_37bba8c9b008/True/SqlTable/dbo.Employee.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-10-14T03:39:14.309Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeesController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Controllers\\EmployeesController.cs",
-              "RelativeDocumentMoniker": "MvcEntitycore\\Controllers\\EmployeesController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Controllers\\EmployeesController.cs",
-              "RelativeToolTip": "MvcEntitycore\\Controllers\\EmployeesController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAgwBMAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:31:19.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Event.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Models\\Event.cs",
-              "RelativeDocumentMoniker": "MvcEntitycore\\Models\\Event.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Models\\Event.cs",
-              "RelativeToolTip": "MvcEntitycore\\Models\\Event.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:28:02.591Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MvcEntitycoreContext.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Data\\MvcEntitycoreContext.cs",
-              "RelativeDocumentMoniker": "MvcEntitycore\\Data\\MvcEntitycoreContext.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Data\\MvcEntitycoreContext.cs",
-              "RelativeToolTip": "MvcEntitycore\\Data\\MvcEntitycoreContext.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAowA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:33:13.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Program.cs",
               "RelativeDocumentMoniker": "MvcEntitycore\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Program.cs",
               "RelativeToolTip": "MvcEntitycore\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:43:59.696Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "MvcEntitycore\\Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Models\\Employee.cs",
-              "RelativeToolTip": "MvcEntitycore\\Models\\Employee.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAkwA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:27:17.735Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Views\\Employees\\Create.cshtml",
-              "RelativeDocumentMoniker": "MvcEntitycore\\Views\\Employees\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Views\\Employees\\Create.cshtml",
-              "RelativeToolTip": "MvcEntitycore\\Views\\Employees\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-14T03:41:31.546Z"
+              "WhenOpened": "2024-10-15T10:21:28.14Z",
+              "EditorCaption": ""
             }
           ]
         }

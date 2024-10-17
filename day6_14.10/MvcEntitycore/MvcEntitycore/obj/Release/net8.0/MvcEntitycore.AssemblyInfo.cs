@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MvcEntitycore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+168ac293ffc176f4ae98ecd98077bde015be002b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84638b7a1110dc742da131ba575ec0d17b0c339c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MvcEntitycore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MvcEntitycore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

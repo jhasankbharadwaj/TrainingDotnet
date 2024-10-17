@@ -37,8 +37,7 @@
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\modelBinding\\modelBinding\\modelBinding.csproj",
               "RelativeToolTip": "modelBinding\\modelBinding.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-14T12:37:45.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T12:37:45.774Z"
             },
             {
               "$type": "Document",
@@ -50,8 +49,7 @@
               "RelativeToolTip": "modelBinding\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T12:33:33.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T12:33:33.083Z"
             },
             {
               "$type": "Document",
@@ -59,9 +57,9 @@
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\modelBinding\\modelBinding\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "modelBinding\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\modelBinding\\modelBinding\\Controllers\\AccountController.cs*",
-              "RelativeToolTip": "modelBinding\\Controllers\\AccountController.cs*",
-              "ViewState": "AgIAAEUAAAAAAAAAAAAIwFAAAAAbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\modelBinding\\modelBinding\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "modelBinding\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAUwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T09:54:06.768Z",
               "EditorCaption": ""
@@ -76,8 +74,7 @@
               "RelativeToolTip": "modelBinding\\model\\AccountDetails.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAswAgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:27:49.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T09:27:49.16Z"
             }
           ]
         }

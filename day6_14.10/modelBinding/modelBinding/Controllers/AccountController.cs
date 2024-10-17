@@ -21,6 +21,8 @@ namespace modelBinding.Controllers
 
         }
         [HttpGet]
+        [NonAction]
+       
         public async Task<IActionResult> GetAll([FromQuery] string city)
         {
 

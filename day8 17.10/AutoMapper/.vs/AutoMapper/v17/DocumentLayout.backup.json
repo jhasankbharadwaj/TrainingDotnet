@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|c:\\users\\administrator\\desktop\\jbclass\\day8 17.10\\automapper\\automapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|solutionrelative:automapper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|c:\\users\\administrator\\desktop\\jbclass\\day8 17.10\\automapper\\automapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|solutionrelative:automapper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|c:\\users\\administrator\\desktop\\jbclass\\day8 17.10\\automapper\\automapper\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|solutionrelative:automapper\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|c:\\users\\administrator\\desktop\\jbclass\\day8 17.10\\automapper\\automapper\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|solutionrelative:automapper\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|c:\\users\\administrator\\desktop\\jbclass\\day8 17.10\\automapper\\automapper\\migrations\\20241017121209_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|solutionrelative:automapper\\migrations\\20241017121209_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|c:\\users\\administrator\\desktop\\jbclass\\day8 17.10\\automapper\\automapper\\model\\personaldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|solutionrelative:automapper\\model\\personaldetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|c:\\users\\administrator\\desktop\\jbclass\\day8 17.10\\automapper\\automapper\\data\\personaldetailscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DD86775-BF4D-4E56-AB67-02B70F8E5CD7}|AutoMapper\\AutoMapper.csproj|solutionrelative:automapper\\data\\personaldetailscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\appsettings.json",
+              "RelativeDocumentMoniker": "AutoMapper\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\appsettings.json",
+              "RelativeToolTip": "AutoMapper\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T12:18:04.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "AutoMapper\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\Properties\\launchSettings.json",
+              "RelativeToolTip": "AutoMapper\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T12:18:00.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "AutoMapper\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\appsettings.Development.json",
+              "RelativeToolTip": "AutoMapper\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-17T12:17:49.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20241017121209_First.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\Migrations\\20241017121209_First.cs",
+              "RelativeDocumentMoniker": "AutoMapper\\Migrations\\20241017121209_First.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\Migrations\\20241017121209_First.cs",
+              "RelativeToolTip": "AutoMapper\\Migrations\\20241017121209_First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T12:12:11.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\Program.cs",
+              "RelativeDocumentMoniker": "AutoMapper\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\Program.cs",
+              "RelativeToolTip": "AutoMapper\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwBMAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:44:56.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PersonalDetailsContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\Data\\PersonalDetailsContext.cs",
+              "RelativeDocumentMoniker": "AutoMapper\\Data\\PersonalDetailsContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\Data\\PersonalDetailsContext.cs",
+              "RelativeToolTip": "AutoMapper\\Data\\PersonalDetailsContext.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:46:02.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PersonalDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\model\\PersonalDetail.cs",
+              "RelativeDocumentMoniker": "AutoMapper\\model\\PersonalDetail.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day8 17.10\\AutoMapper\\AutoMapper\\model\\PersonalDetail.cs",
+              "RelativeToolTip": "AutoMapper\\model\\PersonalDetail.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAwAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T11:33:20.222Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

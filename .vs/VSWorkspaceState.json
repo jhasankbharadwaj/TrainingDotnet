@@ -2,11 +2,11 @@
   "ExpandedNodes": [
     "",
     "\\day6_14.10",
-    "\\day6_14.10\\modelBinding",
     "\\day6_14.10\\modelBinding\\modelBinding",
     "\\day6_14.10\\modelBinding\\modelBinding\\Controllers",
-    "\\EntityFrameWorkCore"
+    "\\day8 17.10",
+    "\\day8 17.10\\MicroServiceProject"
   ],
-  "SelectedNode": "\\day6_14.10\\modelBinding\\modelBinding\\Controllers\\AccountController.cs",
+  "SelectedNode": "\\day8 17.10\\MicroServiceProject\\Mango.sln",
   "PreviewInSolutionExplorer": false
 }

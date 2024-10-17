@@ -8,10 +8,9 @@ namespace MvcEntitycore
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            builder.Services.AddDbContext<MvcEntitycoreContext>(options =>
-                options.UseSqlServer(builder.Configuration.GetConnectionString("MvcEntitycoreContext") ?? throw new InvalidOperationException("Connection string 'MvcEntitycoreContext' not found.")));
 
             // Add services to the container.
+           
             builder.Services.AddControllersWithViews();
 
             var app = builder.Build();
