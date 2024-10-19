@@ -1,94 +1,84 @@
-﻿using Microsoft.AspNetCore.Mvc.RazorPages;
+﻿using Azure;
+using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.EntityFrameworkCore;
 using System.Diagnostics.Metrics;
 using System.Numerics;
 using System.Xml.Linq;
+using WebappProject.Data;
 using WebappProject.Models;
+using static Azure.Core.HttpHeader;
 
 namespace WebappProject.Services
 {
     public class CustomerServices : ICustomerService
     {
-        private readonly List<CustEntity> _CustomersList;
-        public CustomerServices() {
-            _CustomersList = new List<CustEntity>()
-            { new CustEntity(){
-                Id = 1,
-                Name = "Jhasank",
-                age = 9,
-                city = "hyd",
-            country="india",
-            phone=909090,
-            }
-
-            };
+        private readonly WebappProjectContext _Contextdb;
+        public CustomerServices(WebappProjectContext context)
+        {
+            _Contextdb = context;
         }
 
-        public CustEntity AddCustomer(AddOrUpdateCustomer obj)
+        public WebappProjectContext Get_Contextdb()
         {
-            var Addcustomer = new CustEntity()
-            {
-                Id = _CustomersList.Count() + 1,
-                Name = obj.Name,
-                city = obj.city,
-                country = obj.country,
-                age = obj.Age,
-                phone  = obj.phone,
+            return _Contextdb;
+        }
 
-            };
-            _CustomersList.Add(Addcustomer);
-            return Addcustomer;
-        }   
-
-        public bool DeleteCustomerByID(int id)
+        public async Task<CustEntity> AddCustomer(AddOrUpdateCustomer customer)
         {
-            if (_CustomersList.Count > 0)
+            var cust = new CustEntity()
             {
+                age= customer.Age,
+                phone=customer.phone,
+                city=customer.city,
+                country=customer.country,
+                Name   =customer.Name,
                 
-                    _CustomersList.RemoveAt(id);
-                    
-                    return true;
+            };
+            _Contextdb.CustEntitys.Add(cust);
+            await _Contextdb.SaveChangesAsync();
+            return cust;
+        }
+
+        public async Task<bool> DeleteCustomerByID(int id)
+        {
+            var cust=await _Contextdb.CustEntitys.FirstOrDefaultAsync(x => x.Id == id);
+            if (cust != null) { return false;
+            } else {
+                _Contextdb.CustEntitys.Remove(cust);
+                _Contextdb.SaveChangesAsync();
+                return true;
+            }
+
+        }
+
+        public async Task<List<CustEntity>> GetAllCustomer()
+        {
+            return await _Contextdb.CustEntitys.ToListAsync();
+        }
+
+        public async Task<CustEntity?> GetCustomersByID(int id)
+        {
+            return await _Contextdb.CustEntitys.FirstOrDefaultAsync(cust => cust.Id == id);
+        }
+
+        public async Task<CustEntity?> UpdateCustomer(int id, AddOrUpdateCustomer customer)
+        {
+            var cust = await _Contextdb.CustEntitys.FirstOrDefaultAsync(index => index.Id == id);
+            if (cust != null)
+            {
+               cust. age = customer.Age;
+               cust. phone = customer.phone;
+               cust. city = customer.city;
+               cust. country = customer.country;
+               cust. Name = customer.Name;
                 
-            }
-
-            return false;
-        }
-
-        public List<CustEntity> GetAllCustomer()
-        {
-            return _CustomersList.ToList();
-
-        }
-
-        public CustEntity? GetCustomersByID(int id)
-        {
-            foreach(var item in _CustomersList)
-            {
-                if(item.Id== id)
-                {
-                    return item; 
-                }
-            }
-            return null;
-        }
-
-        public CustEntity? UpdateCustomer(int id, AddOrUpdateCustomer obj)
-        {
-            if(obj == null)
-            {
-                return null;
-            }
-            foreach (var item in _CustomersList)
-            {
-                if (item.Id == id)
-                {
-                    item.Id = item.Id;
-                    item.Name = obj.Name;
-                    item.city = obj.city;
-                    item.country = obj.country;
-                    item.age = obj.Age;
-                    item.phone = obj.phone;                }
+                var result = await _Contextdb.SaveChangesAsync();
+                return result >= 0 ? cust : null;
             }
             return null;
         }
     }
+
+       
+    
 }

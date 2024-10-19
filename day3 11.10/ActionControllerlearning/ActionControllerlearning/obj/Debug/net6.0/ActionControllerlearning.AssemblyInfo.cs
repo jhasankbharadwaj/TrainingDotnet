@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ActionControllerlearning")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+168ac293ffc176f4ae98ecd98077bde015be002b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ActionControllerlearning")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ActionControllerlearning")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

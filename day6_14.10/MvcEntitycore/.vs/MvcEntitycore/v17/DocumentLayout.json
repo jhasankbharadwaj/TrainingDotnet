@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\mvcentitycore\\mvcentitycore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6E9C349-6A9C-4DAE-A686-C112D9F83372}|MvcEntitycore\\MvcEntitycore.csproj|solutionrelative:mvcentitycore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Program.cs",
+              "RelativeDocumentMoniker": "MvcEntitycore\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\MvcEntitycore\\MvcEntitycore\\Program.cs",
+              "RelativeToolTip": "MvcEntitycore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:21:28.14Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

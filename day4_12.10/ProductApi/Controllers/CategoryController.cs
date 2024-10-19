@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using ProductApi.Model;
 using ProductApi.Repository;
+using System.Transactions;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
 
@@ -36,23 +37,52 @@ public CategoryController(ICategoryRepository categoryRepository) {
 
         // POST api/<CategoryController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public IActionResult Post([FromBody] Category category)
         {
+            try
+            {
+                _categoryRepository.InsertCategory(category);
+                return Ok();
+            }
+            catch (Exception )
+            {
+                return BadRequest();
+            }
 
         }
 
         // PUT api/<CategoryController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public IActionResult Put(int id, [FromBody] Category category)
         {
+            try
+            {
+                using (var scope = new TransactionScope())
+                {
+                    _categoryRepository.UpdateCategory(category);
+                    scope.Complete();
+                }
+                return new NoContentResult();
+            }
+            catch (Exception) {
+                return NotFound();
+
+            }
         }
 
         // DELETE api/<CategoryController>/5
         [HttpDelete("{id}")]
-        public OkResult Delete(int id)
+        public IActionResult Delete(int id)
         {
-            _categoryRepository.DeleteCategory(id);
-            return new OkResult();
+            try
+            {
+                _categoryRepository.DeleteCategory(id);
+                return new OkResult();
+            }
+            catch (Exception)
+            {
+                return NotFound();
+            }
         }
     }
 }

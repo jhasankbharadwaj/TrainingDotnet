@@ -1,4 +1,7 @@
 using WebappProject.Services;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using WebappProject.Data;
 
 
 namespace WebappProject
@@ -8,7 +11,14 @@ namespace WebappProject
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
-            builder.Services.AddSingleton<ICustomerService, CustomerServices>();
+            //dependency injition
+            builder.Services.AddDbContext<WebappProjectContext>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("WebappProjectContext") ?? throw new InvalidOperationException("Connection string 'WebappProjectContext' not found.")));
+
+            builder.Services.AddScoped<ICustomerService, CustomerServices>();
+
+            builder.Services.AddTransient<ICustomerService, CustomerServices>();
+
 
 
             // Add services to the container.

@@ -43,6 +43,7 @@ namespace ProductApi.Repository
 
         public void UpdateProduct(Product product)
         {
+
             _dbContext.Entry(product).State = EntityState.Modified;
             
             Save();

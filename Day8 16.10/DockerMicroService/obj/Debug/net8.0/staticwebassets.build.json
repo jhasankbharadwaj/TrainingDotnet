@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "c+UAqtq8kESd7IjgIl7BwPdNPjjHfo8r9aef/Ecsu78=",
+  "Source": "DockerMicroService",
+  "BasePath": "_content/DockerMicroService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

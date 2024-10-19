@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\jwtwebapp\\jwtwebapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|solutionrelative:jwtwebapp\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\jwtwebapp\\jwtwebapp\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|solutionrelative:jwtwebapp\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\jwtwebapp\\jwtwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|solutionrelative:jwtwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\jwtwebapp\\jwtwebapp\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|solutionrelative:jwtwebapp\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\jwtwebapp\\jwtwebapp\\jwtwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|solutionrelative:jwtwebapp\\jwtwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\jwtwebapp\\jwtwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|solutionrelative:jwtwebapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|c:\\users\\administrator\\desktop\\jbclass\\day6_14.10\\jwtwebapp\\jwtwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1ED1BCAD-5020-4109-B520-3DDA7D540CC0}|JwtWebApp\\JwtWebApp.csproj|solutionrelative:jwtwebapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "JwtWebApp\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "JwtWebApp\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T12:04:23.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "JwtWebApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\Program.cs",
+              "RelativeToolTip": "JwtWebApp\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAUwDQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:57:42.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "JwtWebApp\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "JwtWebApp\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:56:47.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jwtsettings.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\models\\Jwtsettings.cs",
+              "RelativeDocumentMoniker": "JwtWebApp\\models\\Jwtsettings.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\models\\Jwtsettings.cs",
+              "RelativeToolTip": "JwtWebApp\\models\\Jwtsettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T11:55:43.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\appsettings.json",
+              "RelativeDocumentMoniker": "JwtWebApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\appsettings.json",
+              "RelativeToolTip": "JwtWebApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T11:49:12.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JwtWebApp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\JwtWebApp.csproj",
+              "RelativeDocumentMoniker": "JwtWebApp\\JwtWebApp.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\JwtWebApp.csproj",
+              "RelativeToolTip": "JwtWebApp\\JwtWebApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-14T11:48:55.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "JwtWebApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\JwtWebApp\\JwtWebApp\\appsettings.Development.json",
+              "RelativeToolTip": "JwtWebApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T11:49:20.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
