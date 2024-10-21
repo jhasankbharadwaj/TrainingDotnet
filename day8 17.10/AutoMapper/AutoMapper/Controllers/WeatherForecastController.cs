@@ -1,6 +1,6 @@
 using Microsoft.AspNetCore.Mvc;
 
-namespace AutoMapper.Controllers
+namespace AutoMapperProject.Controllers
 {
     [ApiController]
     [Route("[controller]")]

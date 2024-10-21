@@ -30,8 +30,7 @@ namespace Mango.Services.CouponAPI.Data
             });
         }
 
-
-
+       
     }
    
 }
