@@ -1,3 +1,11 @@
+C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.sourcelink.json
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\bin\Debug\net8.0\appsettings.Development.json
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\bin\Debug\net8.0\appsettings.json
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\bin\Debug\net8.0\Mango.Services.AuthAPI.exe
@@ -125,14 +133,6 @@ C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Serv
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
-C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.csproj.AssemblyReference.cache
-C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.AssemblyInfoInputs.cache
-C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.AssemblyInfo.cs
-C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.MvcApplicationPartsAssemblyInfo.cs
-C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\Mango.Services.AuthAPI.sourcelink.json
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\MicroServiceProject\Mango.Services.AuthAPI\obj\Debug\net8.0\staticwebassets\msbuild.Mango.Services.AuthAPI.Microsoft.AspNetCore.StaticWebAssets.props

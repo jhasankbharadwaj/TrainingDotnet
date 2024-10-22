@@ -11,7 +11,7 @@ namespace Mango.Services.AuthAPI.Data
         {
         }
 
-        DbSet<ApplicationUser> applicationUsers {  get; set; }
+        public DbSet<ApplicationUser> ApplicationUsers {  get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder builder)
