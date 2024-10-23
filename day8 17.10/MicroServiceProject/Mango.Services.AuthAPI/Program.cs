@@ -30,12 +30,12 @@ namespace Mango.Services.AuthAPI
             {
                 options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
-            builder.Services.Configure<JwtOptions>(builder.Configuration.GetSection("APISetting: JwtOptions"));
+            builder.Services.Configure<JwtOptions>(builder.Configuration.GetSection("APISettings: JwtOptions"));
             //////////////////////////////////////////////////////////
             ///
             builder.Services.AddIdentity<ApplicationUser, IdentityRole>().AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
-            builder.Services.AddScoped<IJwtToken, JwtTokenGenerator>();
-            builder.Services.AddScoped<IAuthService, AuthService>();
+            builder.Services.AddScoped<IJwtTokenGenerator, JwtTokenGenerator>();
+            builder.Services.AddScoped<IAuthService,AuthService>();
 
 
             // adding new identity and then calling context using ef stores  and setting default taokenprovides help to manage tokenization 

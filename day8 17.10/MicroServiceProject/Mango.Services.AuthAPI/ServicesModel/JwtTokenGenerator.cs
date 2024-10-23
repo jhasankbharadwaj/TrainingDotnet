@@ -8,14 +8,12 @@ using System.Text;
 
 namespace Mango.Services.AuthAPI.ServicesModel
 {
-    public class JwtTokenGenerator : IJwtToken
+    public class JwtTokenGenerator : IJwtTokenGenerator
     {
         private readonly JwtOptions _jwtOptions;
 
         public JwtTokenGenerator(IOptions<JwtOptions> jwtOptions)
-
         {
-
             _jwtOptions = jwtOptions.Value;
 
         }
@@ -40,8 +38,7 @@ namespace Mango.Services.AuthAPI.ServicesModel
 
       };
 
-            var tokenDescriptor = new SecurityTokenDescriptor
-
+     var tokenDescriptor = new SecurityTokenDescriptor
             {
 
                 Audience = _jwtOptions.Audience,

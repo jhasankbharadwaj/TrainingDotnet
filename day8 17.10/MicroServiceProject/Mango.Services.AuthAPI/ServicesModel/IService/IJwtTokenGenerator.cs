@@ -2,8 +2,8 @@
 
 namespace Mango.Services.AuthAPI.ServicesModel.IService
 {
-    public interface IJwtToken
+    public interface IJwtTokenGenerator
     {
-        public string GenerateToken(ApplicationUser applicationUser);
+      string GenerateToken(ApplicationUser applicationUser);
     }
 }

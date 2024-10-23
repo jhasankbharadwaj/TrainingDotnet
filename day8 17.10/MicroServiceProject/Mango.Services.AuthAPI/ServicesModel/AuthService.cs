@@ -1,10 +1,10 @@
-﻿using Mango.Services.AuthAPI.Data;
+﻿using Mango.Services.AuthAPI.ServicesModel;
+using Mango.Services.AuthAPI.Data;
 using Mango.Services.AuthAPI.Models;
 using Mango.Services.AuthAPI.Models.Dto;
-using Mango.Services.AuthAPI.ServicesModel;
-using Mango.Services.AuthAPI.ServicesModel.IService;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.IdentityModel.Tokens;
+using Mango.Services.AuthAPI.ServicesModel.IService;
 
 
 namespace Mango.Services.AuthAPI.ServicesModel
@@ -13,21 +13,22 @@ namespace Mango.Services.AuthAPI.ServicesModel
     {
         private readonly AppDbContext _db;
         private readonly UserManager<ApplicationUser> _userManager;
-        protected readonly IJwtToken _jwtToken;
+        private readonly IJwtTokenGenerator _jwtToken;
+        private readonly RoleManager<IdentityRole> _roleManager;
 
 
-        public AuthService(AppDbContext db, UserManager<ApplicationUser> userManager,IJwtToken jwtToken)
+        public AuthService(AppDbContext db, IJwtTokenGenerator jwtToken, UserManager<ApplicationUser> userManager,RoleManager<IdentityRole> roleManager )
         {
             _db = db;
             _userManager = userManager;
             _jwtToken = jwtToken;
+            _roleManager = roleManager;
         }
 
         public AppDbContext Db => _db;
 
         public UserManager<ApplicationUser> UserManager => _userManager;
 
-        
 
 
 
@@ -80,20 +81,19 @@ namespace Mango.Services.AuthAPI.ServicesModel
                 return new LoginResponseDto()
                 {
                     User = null,
-                    Token = " "
+                    Token = ""
 
                 };
 
             }
-            //
             var token = _jwtToken.GenerateToken(user);
+
             UserDto userDto = new()
             {
                 Email = user.Email,
                 Id = user.Id,
                 Name = user.Name,
-                Phonenumber = user.PhoneNumber,
-
+                Phonenumber = user.PhoneNumber
             };
             LoginResponseDto loginResponseDto = new LoginResponseDto()
             {
@@ -101,6 +101,21 @@ namespace Mango.Services.AuthAPI.ServicesModel
                 Token = token,
             };
             return loginResponseDto;
+        }
+
+        public async Task<bool> AssignRole(string email, string roleName)
+        {
+            var user = Db.ApplicationUsers.FirstOrDefault(u => u.Email.ToLower() == email.ToLower());
+            if (user != null)
+            {
+                if (!_roleManager.RoleExistsAsync(roleName).GetAwaiter().GetResult())
+                {
+                    _roleManager.CreateAsync(new IdentityRole(roleName)).GetAwaiter().GetResult();
+                }
+                await _userManager.AddToRoleAsync(user,roleName);
+                return true;
+            }
+            return false;
         }
     }
 }
