@@ -1,0 +1,6 @@
+@LrAuto_HostAddress = http://localhost:5168
+
+GET {{LrAuto_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

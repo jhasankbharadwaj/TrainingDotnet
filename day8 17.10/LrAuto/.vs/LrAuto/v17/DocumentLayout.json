@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Advanced_Training\\day8 17.10\\LrAuto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB09B19-3D1F-4FCC-B209-A916FE778C5B}|LrAuto.csproj|e:\\advanced_training\\day8 17.10\\lrauto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB09B19-3D1F-4FCC-B209-A916FE778C5B}|LrAuto.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB09B19-3D1F-4FCC-B209-A916FE778C5B}|LrAuto.csproj|e:\\advanced_training\\day8 17.10\\lrauto\\lrauto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FB09B19-3D1F-4FCC-B209-A916FE778C5B}|LrAuto.csproj|solutionrelative:lrauto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Advanced_Training\\day8 17.10\\LrAuto\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Advanced_Training\\day8 17.10\\LrAuto\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T17:56:06.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LrAuto",
+              "DocumentMoniker": "E:\\Advanced_Training\\day8 17.10\\LrAuto\\LrAuto.csproj",
+              "RelativeDocumentMoniker": "LrAuto.csproj",
+              "ToolTip": "E:\\Advanced_Training\\day8 17.10\\LrAuto\\LrAuto.csproj",
+              "RelativeToolTip": "LrAuto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T18:00:28.849Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

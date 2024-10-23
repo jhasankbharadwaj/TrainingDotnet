@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AutoMapper")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cf1aee6d77aa3a87af0f5b133f68e081f97b7394")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f844475e82928e02f591f1bf33584c9ae8531ec")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("AutoMapper")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AutoMapper")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
