@@ -1,10 +1,12 @@
 
-using AutoMapper.Data;
+using AutoMapperProject.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Identity.Client;
+using AutoMapper;
 using System;
 
-namespace AutoMapper
+namespace AutoMapperProject
+
 {
     public class Program
     {
@@ -12,6 +14,13 @@ namespace AutoMapper
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            static void ConfigurationServices(IServiceCollection services)
+            {
+                services.AddAutoMapper(typeof(Program));
+                services.AddControllers();
+            }
+
+            // automapper 
             // Add services to the container.
             builder.Services.AddDbContext<PersonalDetailsContext>(options => { options.UseSqlServer(builder.Configuration.GetConnectionString("connection")); });
 

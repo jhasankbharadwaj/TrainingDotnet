@@ -7,7 +7,6 @@ C:\Users\Administrator\Desktop\jbclass\day8 17.10\AutoMapper\AutoMapper\bin\Debu
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\AutoMapper\AutoMapper\bin\Debug\net8.0\AutoMapper.pdb
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\AutoMapper\AutoMapper\bin\Debug\net8.0\Azure.Core.dll
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\AutoMapper\AutoMapper\bin\Debug\net8.0\Azure.Identity.dll
-C:\Users\Administrator\Desktop\jbclass\day8 17.10\AutoMapper\AutoMapper\bin\Debug\net8.0\Castle.Core.dll
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\AutoMapper\AutoMapper\bin\Debug\net8.0\Humanizer.dll
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\AutoMapper\AutoMapper\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Administrator\Desktop\jbclass\day8 17.10\AutoMapper\AutoMapper\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll

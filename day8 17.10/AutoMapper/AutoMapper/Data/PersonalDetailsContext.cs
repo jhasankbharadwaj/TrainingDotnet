@@ -1,7 +1,7 @@
-﻿using AutoMapper.model;
+﻿using AutoMapperProject.model;
 using Microsoft.EntityFrameworkCore;
 
-namespace AutoMapper.Data
+namespace AutoMapperProject.Data
 {
     public class PersonalDetailsContext:DbContext
     {

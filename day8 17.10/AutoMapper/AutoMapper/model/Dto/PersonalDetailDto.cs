@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace AutoMapper.model.Dto
+namespace AutoMapperProject.model.Dto
 {
     public class PersonalDetailDto
     {

@@ -1,4 +1,4 @@
-namespace AutoMapper
+namespace AutoMapperProject
 {
     public class WeatherForecast
     {
