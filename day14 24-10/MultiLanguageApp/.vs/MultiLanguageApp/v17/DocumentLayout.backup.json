@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\jbclass\\day14 24-10\\MultiLanguageApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B96CAC37-7836-40E0-80AE-4BEEAEACB204}|MultiLanguageApp\\MultiLanguageApp.csproj|C:\\Users\\Administrator\\Desktop\\jbclass\\day14 24-10\\MultiLanguageApp\\multilanguageapp\\resources\\resource.zh.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{B96CAC37-7836-40E0-80AE-4BEEAEACB204}|MultiLanguageApp\\MultiLanguageApp.csproj|solutionrelative:multilanguageapp\\resources\\resource.zh.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96CAC37-7836-40E0-80AE-4BEEAEACB204}|MultiLanguageApp\\MultiLanguageApp.csproj|c:\\users\\administrator\\desktop\\jbclass\\day14 24-10\\multilanguageapp\\multilanguageapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B96CAC37-7836-40E0-80AE-4BEEAEACB204}|MultiLanguageApp\\MultiLanguageApp.csproj|solutionrelative:multilanguageapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96CAC37-7836-40E0-80AE-4BEEAEACB204}|MultiLanguageApp\\MultiLanguageApp.csproj|c:\\users\\administrator\\desktop\\jbclass\\day14 24-10\\multilanguageapp\\multilanguageapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96CAC37-7836-40E0-80AE-4BEEAEACB204}|MultiLanguageApp\\MultiLanguageApp.csproj|solutionrelative:multilanguageapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96CAC37-7836-40E0-80AE-4BEEAEACB204}|MultiLanguageApp\\MultiLanguageApp.csproj|c:\\users\\administrator\\desktop\\jbclass\\day14 24-10\\multilanguageapp\\multilanguageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B96CAC37-7836-40E0-80AE-4BEEAEACB204}|MultiLanguageApp\\MultiLanguageApp.csproj|solutionrelative:multilanguageapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B96CAC37-7836-40E0-80AE-4BEEAEACB204}|MultiLanguageApp\\MultiLanguageApp.csproj|c:\\users\\administrator\\desktop\\jbclass\\day14 24-10\\multilanguageapp\\multilanguageapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B96CAC37-7836-40E0-80AE-4BEEAEACB204}|MultiLanguageApp\\MultiLanguageApp.csproj|solutionrelative:multilanguageapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resource.zh.resx",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day14 24-10\\MultiLanguageApp\\MultiLanguageApp\\Resources\\Resource.zh.resx",
+              "RelativeDocumentMoniker": "MultiLanguageApp\\Resources\\Resource.zh.resx",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day14 24-10\\MultiLanguageApp\\MultiLanguageApp\\Resources\\Resource.zh.resx",
+              "RelativeToolTip": "MultiLanguageApp\\Resources\\Resource.zh.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-10-24T04:07:38.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day14 24-10\\MultiLanguageApp\\MultiLanguageApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MultiLanguageApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day14 24-10\\MultiLanguageApp\\MultiLanguageApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MultiLanguageApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAswC4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T03:10:05.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day14 24-10\\MultiLanguageApp\\MultiLanguageApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MultiLanguageApp\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day14 24-10\\MultiLanguageApp\\MultiLanguageApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MultiLanguageApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T03:02:27.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day14 24-10\\MultiLanguageApp\\MultiLanguageApp\\Program.cs",
+              "RelativeDocumentMoniker": "MultiLanguageApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day14 24-10\\MultiLanguageApp\\MultiLanguageApp\\Program.cs",
+              "RelativeToolTip": "MultiLanguageApp\\Program.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T02:59:43.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\day14 24-10\\MultiLanguageApp\\MultiLanguageApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MultiLanguageApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day14 24-10\\MultiLanguageApp\\MultiLanguageApp\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MultiLanguageApp\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-24T02:44:49.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

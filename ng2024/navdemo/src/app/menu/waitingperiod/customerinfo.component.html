@@ -1,0 +1,23 @@
+<title><h2> MODELS AND WAITING PEROID </h2></title>
+<table class="table table-hover">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">CAR NAME</th>
+        <th scope="col">PRICE</th>
+        <th scope="col">WAITING PERIOD</th>
+      </tr>
+    </thead>
+    @for (products of wlist; track $index) {
+    <tbody >
+      <tr>
+        <th scope="row">1</th>
+        <td>{{products.Name}}</td>
+        <td>{{products.Price}}CR</td>
+        <td>{{products.WP}}MONTHS</td>
+      </tr>
+    </tbody>
+    }
+      
+   
+  </table>

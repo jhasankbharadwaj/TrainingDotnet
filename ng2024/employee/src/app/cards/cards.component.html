@@ -1,0 +1,25 @@
+<p>cards works!</p>
+
+    
+   @for (emp of emplist; track $index) {
+    <div class="card col-md-4  " style="width: 18rem;" >
+
+    <img src={{emp.photoPath}} class="card " alt="notFound">
+    <div class="card-body">
+      
+        {{emp.name}}<br>
+        {{emp.gender}},<br>
+        {{emp.email}},<br>
+        {{emp.phoneNumber}},<br>
+        {{emp.contactPreference}},<br>
+        {{emp.dateOfBirth| date }},<br>
+       {{ emp.department}},<br>
+        {{emp.isActive}},<br>
+        {{emp.photoPath}},
+    
+      
+    </div>
+</div>
+
+}
+

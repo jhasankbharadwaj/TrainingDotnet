@@ -1,0 +1,88 @@
+<div class="student-form-container">
+    <h2>Student Information</h2>
+    <form id="studentForm" (ngSubmit)="onSubmit()" #formRef="ngForm" class="custom-form">
+      <div class="form-group">
+        <label for="studentName">Student Name</label>
+        <input 
+          type="text" 
+          [(ngModel)]="student.studentName" 
+          id="studentName" 
+          name="studentName" 
+          required 
+          #nameRef="ngModel" 
+          placeholder="Enter student name">
+        <div *ngIf="nameRef.invalid && nameRef.touched" class="error-message">
+          Name is required.
+        </div>
+      </div>
+  
+      <div class="form-group">
+        <label for="studentGrade">Student Grade</label>
+        <input 
+          type="text" 
+          [(ngModel)]="student.studentGrade" 
+          id="studentGrade" 
+          name="studentGrade" 
+          required 
+          #gradeRef="ngModel" 
+          placeholder="Enter grade">
+        <div *ngIf="gradeRef.invalid && gradeRef.touched" class="error-message">
+          Grade is required.
+        </div>
+      </div>
+  
+      <div class="form-group">
+        <label for="studentRollNo">Student Roll No</label>
+        <input 
+          type="text" 
+          [(ngModel)]="student.studentRollNo" 
+          id="studentRollNo" 
+          name="studentRollNo" 
+          required 
+          #rollNoRef="ngModel" 
+          placeholder="Enter roll number">
+        <div *ngIf="rollNoRef.invalid && rollNoRef.touched" class="error-message">
+          Roll No is required.
+        </div>
+      </div>
+  
+      <div class="form-group checkbox-group">
+        <input 
+          type="checkbox" 
+          [(ngModel)]="student.isActive" 
+          id="isActive" 
+          name="isActive" 
+          checked 
+          #isActiveRef="ngModel">
+        <label for="isActive">Is Active</label>
+      </div>
+  
+      <div class="form-group">
+        <label for="createdDate">Created Date</label>
+        <input 
+          type="date" 
+          [(ngModel)]="student.createdDate" 
+          id="createdDate" 
+          name="createdDate" 
+          required 
+          #createdDateRef="ngModel">
+        <div *ngIf="createdDateRef.invalid && createdDateRef.touched" class="error-message">
+          Created Date is required.
+        </div>
+      </div>
+  
+      <div class="form-group">
+        <label for="modifiedDate">Modified Date</label>
+        <input 
+          type="date" 
+          [(ngModel)]="student.modifiedDate" 
+          id="modifiedDate" 
+          name="modifiedDate">
+      </div>
+  
+      <button type="submit" class="submit-button" [disabled]="formRef.invalid">
+        Submit
+      </button>
+    </form>
+  </div>
+  

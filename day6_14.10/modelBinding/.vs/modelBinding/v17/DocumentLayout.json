@@ -26,8 +26,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
@@ -47,7 +55,7 @@
               "RelativeDocumentMoniker": "modelBinding\\Program.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\day6_14.10\\modelBinding\\modelBinding\\Program.cs",
               "RelativeToolTip": "modelBinding\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T12:33:33.083Z",
               "EditorCaption": ""
@@ -62,8 +70,7 @@
               "RelativeToolTip": "modelBinding\\Controllers\\AccountController.cs",
               "ViewState": "AgIAAE8AAAAAAAAAAAAUwFwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:54:06.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-14T09:54:06.768Z"
             },
             {
               "$type": "Document",
