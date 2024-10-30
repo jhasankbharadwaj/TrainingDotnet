@@ -1,0 +1,19 @@
+.form1{
+   position:fixed;
+   top:10%;
+   left:3%;
+
+    background-color:aqua;
+    display:flex;
+  
+    align-items: center;
+
+}
+.ioio{
+    color:red;
+    position:absolute;
+
+}
+.meee{
+    font-style: italic;
+}

@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|c:\\users\\administrator\\desktop\\jbclass\\student_apixangular 28.10\\studentsapi\\studentsapi\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\models\\studentcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|c:\\users\\administrator\\desktop\\jbclass\\student_apixangular 28.10\\studentsapi\\studentsapi\\models\\tblstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\models\\tblstudent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|c:\\users\\administrator\\desktop\\jbclass\\student_apixangular 28.10\\studentsapi\\studentsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|c:\\users\\administrator\\desktop\\jbclass\\student_apixangular 28.10\\studentsapi\\studentsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|c:\\users\\administrator\\desktop\\jbclass\\student_apixangular 28.10\\studentsapi\\studentsapi\\studentsapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\studentsapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|c:\\users\\administrator\\desktop\\jbclass\\student_apixangular 28.10\\studentsapi\\studentsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A5AD0579-215A-4014-AB52-2179FDB2ECBA}|StudentsAPI\\StudentsAPI.csproj|solutionrelative:studentsapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TblStudent.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\StudentsAPI\\Models\\TblStudent.cs",
+              "RelativeDocumentMoniker": "StudentsAPI\\Models\\TblStudent.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\StudentsAPI\\Models\\TblStudent.cs",
+              "RelativeToolTip": "StudentsAPI\\Models\\TblStudent.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T12:00:58.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\StudentsAPI\\Models\\StudentContext.cs",
+              "RelativeDocumentMoniker": "StudentsAPI\\Models\\StudentContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\StudentsAPI\\Models\\StudentContext.cs",
+              "RelativeToolTip": "StudentsAPI\\Models\\StudentContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:57:58.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\StudentsAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentsAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\StudentsAPI\\appsettings.json",
+              "RelativeToolTip": "StudentsAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T11:42:21.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsAPI.http",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\StudentsAPI\\StudentsAPI.http",
+              "RelativeDocumentMoniker": "StudentsAPI\\StudentsAPI.http",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\StudentsAPI\\StudentsAPI.http",
+              "RelativeToolTip": "StudentsAPI\\StudentsAPI.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-28T11:42:17.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\StudentsAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentsAPI\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\StudentsAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentsAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-28T11:42:05.546Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\StudentsAPI\\Program.cs",
+              "RelativeDocumentMoniker": "StudentsAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\jbclass\\student_ApiXAngular 28.10\\StudentsAPI\\StudentsAPI\\Program.cs",
+              "RelativeToolTip": "StudentsAPI\\Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwCcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:36:03.332Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
